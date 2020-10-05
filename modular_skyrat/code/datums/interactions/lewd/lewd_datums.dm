@@ -11,8 +11,7 @@
 									/mob/living/simple_animal/parrot,
 									/mob/living/simple_animal/sloth,
 									/mob/living/simple_animal/pickle,
-									/mob/living/simple_animal/hostile/retaliate/goat,
-									/mob/living/silicon/robot) //Lumos Change to blacklist cyborgs from lewd verbs. I hope this is a decent compromise for everyone
+									/mob/living/simple_animal/hostile/retaliate/goat)
 
 /datum/interaction/lewd/kiss
 	command = "deepkiss"
